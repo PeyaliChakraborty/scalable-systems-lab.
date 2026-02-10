@@ -15,5 +15,5 @@ This repository is a dedicated environment for mastering high-scale software eng
 ## 📈 Learning Roadmap
 - [x] Basic Algorithm Implementation
 - [x] Documentation of System Design principles
-- [ ] Integration of Unit Testing Frameworks
+- [X] Integration of Unit Testing Frameworks
 - [ ] Building a Mock Distributed Service
